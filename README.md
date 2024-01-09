@@ -1,6 +1,12 @@
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
+## Cloning the landing page
+
+Clone the app by running git clone https://github.com/cozybeatz/Iman-Gadzhi-8-Figure-Landing-Page in your terminal
 
 First, run the development server:
 
